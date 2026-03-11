@@ -5,7 +5,7 @@ The Movie Recommendation System is a machine learning–based web application th
 
 The application is built using Python, Machine Learning techniques, and Streamlit to provide an interactive web interface. It helps users easily discover movies they may enjoy based on their preferences.
 
-🚀 Features
+🚀 Features Includes:
 
 🎥 Recommend movies similar to the selected movie
 
